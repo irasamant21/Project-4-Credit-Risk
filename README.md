@@ -66,5 +66,3 @@ The full analysis is implemented in [`credit_risk.ipynb`](./credit_risk.ipynb).
 
 ---
 
-## 📁 File Structure
-
